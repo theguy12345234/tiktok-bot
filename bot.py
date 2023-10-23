@@ -122,7 +122,7 @@ class Bot:
             exit()
 
         print()
-        video_url = input(Fore.MAGENTA + "[-] Video URL : ")
+        video_url = input(Fore.MAGENTA + "[-] Video URL : https://www.tiktok.com/@bananrange/video/7289396558632701217?is_from_webapp=1&sender_device=pc&web_id=7283192846882227745 ")
         print()
 
         self.start_service(div, video_url)
